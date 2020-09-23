@@ -1,0 +1,45 @@
+{
+  "course": [
+    {
+      "autor": "袁明bulala",
+      "id": 1000
+    },
+    {
+      "id": 1001,
+      "course_name": "公拉农题队始果动",
+      "autor": "高丽",
+      "college": "先了队叫及便",
+      "category_Id": 2
+    },
+    {
+      "course_name": "马连白米且",
+      "autor": "袁明bulala",
+      "college": "金并即总变史",
+      "category_Id": "2",
+      "id": 1002
+    }
+  ],
+  "home": [
+    {
+      "course_name": "马连白米且1222",
+      "autor": "袁明2333",
+      "college": "金并即总变史22",
+      "category_Id": "2",
+      "id": 1003
+    },
+    {
+      "course_name": "马连白米且1222",
+      "autor": "袁明2333",
+      "college": "金并即总变史22",
+      "category_Id": "2",
+      "id": 1004
+    },
+    {
+      "course_name": "马连白米且1222",
+      "autor": "袁明2333",
+      "college": "金并即总变史22",
+      "category_Id": "2",
+      "id": 1006
+    }
+  ]
+}
